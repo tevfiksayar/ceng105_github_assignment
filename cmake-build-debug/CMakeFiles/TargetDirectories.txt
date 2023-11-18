@@ -1,0 +1,3 @@
+/Users/tevfiksayar/Desktop/codingC/ceng105_github_assignment/cmake-build-debug/CMakeFiles/ceng105_github_assignment.dir
+/Users/tevfiksayar/Desktop/codingC/ceng105_github_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tevfiksayar/Desktop/codingC/ceng105_github_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
