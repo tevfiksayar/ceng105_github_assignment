@@ -20,6 +20,9 @@ int main() {
     carp= sayi1*sayi2
     printf("sayi1-sayi2: %d\n", carp;
 
+    bol = sayi1 / sayi2;
+    printf("1. sayi / 2. sayi = %d", bol);
+
 
 
     return 0;
