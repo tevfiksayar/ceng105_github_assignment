@@ -14,6 +14,9 @@ int main() {
 
     printf("sayi1 + sayi2: %d\n", toplam);
 
+    cikar = sayi1 - sayi2;
+    printf("1. sayi - 2. sayi = %d\n", cikar);
+
 
 
     return 0;
