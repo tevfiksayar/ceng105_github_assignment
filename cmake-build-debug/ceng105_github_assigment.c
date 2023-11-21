@@ -17,6 +17,9 @@ int main() {
     cikar = sayi1 - sayi2;
     printf("1. sayi - 2. sayi = %d\n", cikar);
 
+    carp= sayi1*sayi2
+    printf("sayi1-sayi2: %d\n", carp;
+
 
 
     return 0;
